@@ -1,4 +1,4 @@
-Who is Husky?
+**Who is Husky?**
 
 Husky Finance, a trading name of Financial SatNav Limited (referred to below as “Husky”/“we”/“us”/“our”), is a company registered in England and Wales under registered number 08071637, with our registered office at Gloucester House, Church Walk, Burgess Hill, West Sussex RH15 9AS, UK and our operational London office at 10 Finsbury Square, London EC2A 1AF.
 
